@@ -1,0 +1,16 @@
+# SparrOne
+
+> SparrOne vend en ligne des ebooks PDF et programmes d'entraînement pour jeunes footballeurs (technique, cardio, musculation, préparation mentale). Site en français, public : jeunes joueurs et leurs parents. Paiement par Stripe.
+
+## Produits
+- [Guide Complet du Footballeur — 4,99 €](https://[VOTRE-DOMAINE]/guide-football.html)
+- [Programme Complet pour Footballeur — 20,00 €](https://[VOTRE-DOMAINE]/pack.html)
+- [Ebook Préparation Mentale — 1,99 €](https://[VOTRE-DOMAINE]/ebook-preparation-mentale.html)
+- [Ebook Cardio, Technique ou Musculation — 5,99 €](https://[VOTRE-DOMAINE]/ebook-cardio-technique-muscu.html)
+- [Pack 3 Ebooks Cardio + Technique + Musculation — 9,99 €](https://[VOTRE-DOMAINE]/pack-3-ebooks.html)
+
+## Informations légales
+- [Mentions légales](https://[VOTRE-DOMAINE]/mentions-legales.html)
+- [CGV](https://[VOTRE-DOMAINE]/cgv.html)
+- [CGU](https://[VOTRE-DOMAINE]/cgu.html)
+- [Politique de confidentialité](https://[VOTRE-DOMAINE]/confidentialite.html)
